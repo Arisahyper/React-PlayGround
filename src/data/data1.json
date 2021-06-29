@@ -1,0 +1,62 @@
+[
+  {
+    "name": "apple",
+    "price": 100,
+    "stock": 5
+  },
+  {
+    "name": "orange",
+    "price": 200,
+    "stock": 3
+  },
+  {
+    "name": "banana",
+    "price": 150,
+    "stock": 5
+  },
+  {
+    "name": "apple",
+    "price": 100,
+    "stock": 5
+  },
+  {
+    "name": "orange",
+    "price": 200,
+    "stock": 3
+  },
+  {
+    "name": "banana",
+    "price": 150,
+    "stock": 5
+  },
+  {
+    "name": "apple",
+    "price": 100,
+    "stock": 5
+  },
+  {
+    "name": "orange",
+    "price": 200,
+    "stock": 3
+  },
+  {
+    "name": "banana",
+    "price": 150,
+    "stock": 5
+  },
+  {
+    "name": "apple",
+    "price": 100,
+    "stock": 5
+  },
+  {
+    "name": "orange",
+    "price": 200,
+    "stock": 3
+  },
+  {
+    "name": "banana",
+    "price": 150,
+    "stock": 5
+  }
+]

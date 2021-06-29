@@ -1,0 +1,16 @@
+.item {
+  box-shadow: 2px 2px 4px;
+  width: 36em;
+}
+.itemBox {
+  display: inline-block;
+  padding: 0.5rem;
+}
+
+.itemList {
+  text-align: center;
+}
+
+.cart {
+  list-style: none;
+}

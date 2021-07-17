@@ -9,12 +9,12 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <ChakraProvider>
-      <Router>
-        <Route exact path="/app" component={App} />
-        <Route path="/app2" component={App2} />
-      </Router>
-    </ChakraProvider>
+    {/* <ChakraProvider> */}
+    <Router>
+      <Route exact path="/app" component={App} />
+      <Route path="/app2" component={App2} />
+    </Router>
+    {/* </ChakraProvider> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
